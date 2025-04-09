@@ -6,9 +6,9 @@
 
 Olá :wave:
 
-Meu nome é Jean, tenho me dedicado a programação front-end, durante esse periodo adquirindo conhecimentos em Html e Css, Node.js, JavaScript, ReactJs, Vue, Angular, Git e Github.
+Meu nome é Jean, tenho me dedicado a programação front-end, durante esse periodo adquirindo conhecimentos em Html e Css, Node.js, JavaScript, ReactJs, Vue3, Angular19, Git e Github.
 
-Durante esse periodo desenvolvi diversos projetos que podem ser acompanhados atraves do meu portifolio no GitHub.
+Desenvolvi diversos projetos que podem ser acompanhados atraves do meu portifolio no GitHub.
 
 ##
 
