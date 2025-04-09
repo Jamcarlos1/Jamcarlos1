@@ -6,7 +6,7 @@
 
 Olá :wave:
 
-Meu nome é Jean, tenho me dedicado a programação front-end, durante esse ano adquirindo conhecimentos em Html e Css, Node.js, JavaScript, ReactJs, Git e Github.
+Meu nome é Jean, tenho me dedicado a programação front-end, durante esse periodo adquirindo conhecimentos em Html e Css, Node.js, JavaScript, ReactJs, Vue, Angular, Git e Github.
 
 Durante esse periodo desenvolvi diversos projetos que podem ser acompanhados atraves do meu portifolio no GitHub.
 
@@ -22,6 +22,6 @@ Durante esse periodo desenvolvi diversos projetos que podem ser acompanhados atr
  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
  <code><img height="25" src="https://devicon-website.vercel.app/api/git/original.svg"></code>
  <code><img height="25" src="https://devicon-website.vercel.app/api/github/original-wordmark.svg"></code>
-<img height="25" src="https://devicon-website.vercel.app/api/vuejs/original.svg"></img>  
- <img height="25" src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img>
+ <code><img height="25" src="https://devicon-website.vercel.app/api/vuejs/original.svg"></img>  </code>
+ <code><img height="25" src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img> </code>
  </div>
