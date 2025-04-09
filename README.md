@@ -22,6 +22,6 @@ Desenvolvi diversos projetos que podem ser acompanhados atraves do meu portifoli
  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
  <code><img height="25" src="https://devicon-website.vercel.app/api/git/original.svg"></code>
  <code><img height="25" src="https://devicon-website.vercel.app/api/github/original-wordmark.svg"></code>
- <code><img height="25" src="https://devicon-website.vercel.app/api/vuejs/original.svg"></img>  </code>
- <code><img height="25" src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img> </code>
+ <code><img height="25" src="https://devicon-website.vercel.app/api/vuejs/original.svg"></img></code>
+ <code><img height="25" src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img></code>
  </div>
