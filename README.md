@@ -4,11 +4,10 @@
 
 ##
 
-Olá :wave:
+## Olá 👋, sou o Jean Carlos!
 
-Meu nome é Jean, tenho me dedicado a programação front-end, durante esse periodo adquirindo conhecimentos em Html e Css, Node.js, JavaScript, TyperScript, ReactJs, Vue3, Angular19, Git e Github.
+Desenvolvedor Front-end em busca da minha primeira oportunidade profissional. Minha paixão é criar interfaces web interativas e responsivas, transformando ideias em código funcional e elegante.
 
-Desenvolvi diversos projetos que podem ser acompanhados atraves do meu portifolio no GitHub.
 
 ##
 
@@ -27,5 +26,6 @@ Desenvolvi diversos projetos que podem ser acompanhados atraves do meu portifoli
 <code><img height="25" src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img></code>
  
  </div>
+
 
 
