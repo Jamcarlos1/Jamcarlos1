@@ -6,7 +6,11 @@
 
 ## Olá 👋, sou o Jean Carlos!
 
-Desenvolvedor Front-end em busca de uma nova oportunidade profissional. Minha paixão é criar interfaces web interativas e responsivas, transformando ideias em código funcional e elegante.
+Desenvolvedor Front-end com experiência prática na criação de
+interfaces web responsivas, acessíveis e orientadas à experiência
+do usuário. Atuo no desenvolvimento de aplicações com React,
+TypeScript e JavaScript, integradas a APIs REST e sistemas de
+autenticação
 
 
 ##
@@ -26,6 +30,7 @@ Desenvolvedor Front-end em busca de uma nova oportunidade profissional. Minha pa
 <code><img height="25" src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img></code>
  
  </div>
+
 
 
 
