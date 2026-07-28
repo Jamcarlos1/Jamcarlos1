@@ -1,10 +1,11 @@
 <div align="center">
 
-# Olá, sou o Jean Carlos 👋
+# Jean Carlos
 
-**Desenvolvedor Front-end & Fullstack | React, TypeScript, Node.js, AWS**
+**Desenvolvedor Front-end & Fullstack**
+React · TypeScript · Node.js
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlos-da-silva-gonçalves-a95448100)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlos-da-silva-gonçalves-a95448100)
 
 </div>
 
@@ -12,11 +13,14 @@
 
 ## 💼 Sobre mim
 
-Desenvolvedor **Front-end e Fullstack** com **cerca de 2 anos de experiência**, atuando de ponta a ponta em aplicações com **React**, **TypeScript** e back-end em **Node.js** (NestJS, AdonisJS) e **PHP** (Laravel), integradas a APIs REST, autenticação e armazenamento em nuvem (**AWS S3**).
+Desenvolvedor **Front-end e Fullstack** com **cerca de 2 anos de experiência**, com atuação principal em **HTML**, **CSS**, **JavaScript**, **TypeScript** e **React**, e conhecimento complementar em **Vue** e **Angular**.
 
-Já participei de um projeto freelancer real para cliente, do levantamento de requisitos ao deploy — estruturando o front-end, construindo a API e integrando as duas camadas.
+No back-end, tenho conhecimento mais básico, com noções em **PHP (Laravel)**, **NestJS** e **AdonisJS**, além de **bancos de dados relacionais (MySQL e PostgreSQL)**. Já participei de um projeto freelancer real para cliente, do levantamento de requisitos ao deploy, incluindo integração com **AWS S3** para armazenamento em nuvem. Utilizo **Git** e **GitHub** no controle de versão dos projetos.
 
-- 🔭 Aprofundando conhecimentos em **React**, **TypeScript** e **AWS**
+- 🎯 Foco principal: **Front-end** com React e TypeScript
+- 🔧 Conhecimento básico em back-end: PHP/Laravel, NestJS, AdonisJS
+- 🗄️ Banco de dados: MySQL e PostgreSQL
+- 🔭 Aprofundando conhecimentos em React, TypeScript e AWS
 - 💬 Disponível para novas oportunidades em front-end e fullstack
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/jean-carlos-da-silva-gonçalves-a95448100)
 
@@ -41,9 +45,11 @@ Já participei de um projeto freelancer real para cliente, do levantamento de re
 <div>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" title="AdonisJS" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" title="AdonisJS" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" />
 </div>
 
@@ -58,6 +64,6 @@ Já participei de um projeto freelancer real para cliente, do levantamento de re
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlos-da-silva-gonçalves-a95448100)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlos-da-silva-gonçalves-a95448100)
 
 </div>
