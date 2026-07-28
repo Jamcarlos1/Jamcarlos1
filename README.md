@@ -14,7 +14,7 @@
 
 Desenvolvedor **Front-end e Fullstack** com **cerca de 2 anos de experiência**, atuando de ponta a ponta em aplicações com **React**, **TypeScript** e back-end em **Node.js** (NestJS, AdonisJS) e **PHP** (Laravel), integradas a APIs REST, autenticação e armazenamento em nuvem (**AWS S3**).
 
-Já conduzi um projeto freelancer real para cliente, do levantamento de requisitos ao deploy — estruturando o front-end, construindo a API e integrando as duas camadas.
+Já participei de um projeto freelancer real para cliente, do levantamento de requisitos ao deploy — estruturando o front-end, construindo a API e integrando as duas camadas.
 
 - 🔭 Aprofundando conhecimentos em **React**, **TypeScript** e **AWS**
 - 💬 Disponível para novas oportunidades em front-end e fullstack
@@ -43,7 +43,7 @@ Já conduzi um projeto freelancer real para cliente, do levantamento de requisit
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" />
-  <img height="40" src="https://adonisjs.com/assets/favicon-6789d70f.png" title="AdonisJS" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" title="AdonisJS" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" />
 </div>
 
